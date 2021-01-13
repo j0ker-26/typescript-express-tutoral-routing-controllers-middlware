@@ -1,0 +1,9 @@
+# editor config
+.idea
+.vscode
+
+# node.js lib
+node_modules
+
+# project config
+.env
